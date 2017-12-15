@@ -13,4 +13,4 @@ This project setup a simple web app with four major functions:
 
 You can run the project directly in our workspace. The github authorization module is only work in our workspace (because github OAuth apps needs a fixed authorization callback URL).
 
-### For more information, please infer readme.
+### For more information, please refer readme.
