@@ -1,6 +1,6 @@
 ## [Text-Twist](https://ide.c9.io/zhangqx/project22)
 
-![Image here](https://github.com/double0ten/Text-Twist/blob/master/tt.png)
+![Image here](http://chuantu.biz/t6/177/1513315358x-1566683481.png)
 
 This project setup a simple web app with four major functions: 
 1. A registration system, 
