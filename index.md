@@ -1,6 +1,6 @@
 ## [Text-Twist](https://ide.c9.io/zhangqx/project22)
 
-![Image of Yaktocat](https://github.com/double0ten/Text-Twist/blob/master/tt.png)
+![Image here](https://github.com/double0ten/Text-Twist/blob/master/tt.png)
 
 This project setup a simple web app with four major functions: 
 1. A registration system, 
